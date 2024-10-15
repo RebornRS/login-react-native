@@ -36,3 +36,7 @@ Puedes modificar el código para ajustar la lógica de autenticación a tus nece
 
 ## Contribuciones
 Siéntete libre de hacer un fork de este proyecto y enviar pull requests con mejoras o correcciones. ¡Toda ayuda es bienvenida!
+
+
+![Vista 1](https://raw.githubusercontent.com/RebornRS/login-react-native/refs/heads/main/preview/image.webp?raw=true)
+![Vista 2](https://raw.githubusercontent.com/RebornRS/login-react-native/refs/heads/main/preview/image2.webp?raw=true)
