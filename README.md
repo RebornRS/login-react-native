@@ -2,6 +2,13 @@
 
 Este proyecto es una ayuda inicial para implementar un sistema de login en una aplicación React Native utilizando Expo. El enfoque principal es guiar a través del flujo de autenticación, hasta llegar a la ruta correspondiente, y realizar el manejo del retorno de datos de manera adecuada.
 
+
+
+#Complemento Backend
+
+Si necesitas un backend para complementar este proyecto, puedes consultar el siguiente repositorio: [auth-easy-typescript](https://github.com/RebornRS/auth-easy-typescript)
+
+
 ## Características
 - **Autenticación básica**: Implementación de un sistema de login inicial.
 - **Rutas protegidas**: Navegación hacia rutas seguras una vez que el usuario está autenticado.
